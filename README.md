@@ -1,1 +1,3 @@
-# interior-design-studio
+# Interior design studio
+
+This is home project for learning
